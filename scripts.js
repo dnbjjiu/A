@@ -4,7 +4,7 @@ const CONFIG = {
   whatsapp: '5568992575708',
   // Cole abaixo o endereço completo da surpresa (ex.: https://seusite.com).
   // Enquanto vazio, o card Prossiga aparece indisponível.
-  linkProssiga: '',
+  linkProssiga: 'https://music.youtube.com/watch?v=izGwDsrQ1eQ',
   // TROCAS FUTURAS DE COMIDAS / RESTAURANTES: [emoji, nome].
   comidas: [['🍔','Hambúrguer'],['🍣','Sushi'],['🍝','Massas'],['🌮','Tacos'],['🍕','Pizza']],
   // TROCAS FUTURAS DE ATIVIDADES / LUGARES: [emoji, nome].
