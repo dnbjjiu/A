@@ -1,0 +1,16 @@
+UM ENCONTRO COM VOCÊ
+
+Abra index.html no navegador. Mantenha styles.css, scripts.js e assets juntos.
+Não precisa instalar dependências. Atualizar a página reinicia o convite.
+
+PERSONALIZAÇÃO
+No começo de scripts.js, procure CONFIG:
+- linkProssiga: cole a URL completa da sua surpresa entre as aspas.
+  O card fica indisponível enquanto o endereço estiver vazio.
+- whatsapp: número de destino com país e DDD, apenas números.
+- comidas / atividades: troque nomes e emojis, ou acrescente opções.
+- provocacoes: frases mostradas nas tentativas de escolher NÃO.
+
+O WhatsApp abre uma mensagem preenchida. A pessoa precisa tocar em enviar.
+Nenhuma escolha é enviada automaticamente ou armazenada em servidor.
+As imagens fornecidas foram mantidas sem edição.
